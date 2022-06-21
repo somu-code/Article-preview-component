@@ -34,8 +34,8 @@ Mobile view
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/article-preview-component-I_i3YNhVO6)
+- Live Site URL: [Live site URL here](https://article-preview-component.pages.dev)
 
 ### Built with
 
